@@ -1,2 +1,2 @@
 # cnc-crasher
-This cnc crasherwas made by me on discord Sceil#8525
+This cnc crasher was made by me on discord Sceil#8525
