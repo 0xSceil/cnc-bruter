@@ -1,2 +1,2 @@
-# cnc-bruter
-This cnc bruter was made by me on discord Sceil#8525
+# cnc-crasher
+This cnc crasherwas made by me on discord Sceil#8525
